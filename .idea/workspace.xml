@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90d3ee78-b436-4c98-b421-268c37cc2f5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/a101/testutility/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/a101/testutility/TestUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/a101/ui/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/a101/ui/CheckOutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/a101/ui/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/a101/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/a101/testng/A101Case.java" afterDir="false" />
+    <list default="true" id="90d3ee78-b436-4c98-b421-268c37cc2f5a" name="Changes" comment="A101 Test Case Finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/a101/testutility/TestUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/a101/testutility/TestUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/a101/ui/CheckOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/a101/ui/CheckOutPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +75,30 @@
       <updated>1664118499956</updated>
       <workItem from="1664118501819" duration="502000" />
       <workItem from="1664119372616" duration="8136000" />
-      <workItem from="1664736233601" duration="3488000" />
+      <workItem from="1664736233601" duration="5354000" />
     </task>
+    <task id="LOCAL-00001" summary="A101 Test Case Finished">
+      <created>1664739789985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664739789985</updated>
+    </task>
+    <task id="LOCAL-00002" summary="A101 Test Case Finished">
+      <created>1664739810135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664739810135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="A101 Test Case Finished">
+      <created>1664739994735</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664739994735</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,15 +115,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/a101/ui/DashboardPage.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A101 Test Case Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="A101 Test Case Finished" />
   </component>
 </project>

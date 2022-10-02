@@ -12,9 +12,6 @@ public class CheckOutPage {
     WebDriver driver;
     TestUtility testUtility;
 
-//    String city = ReadFromFile.readConfigProperties("city");
-//    String townShip = ReadFromFile.readConfigProperties("townShip");
-//    String district = ReadFromFile.readConfigProperties("district");
 
     public CheckOutPage(WebDriver driver) {
         this.driver = driver;
@@ -75,7 +72,7 @@ public class CheckOutPage {
 
     public void fillAddressTitle(){
         testUtility.waitForElementPresent(addressTitle);
-        addressTitle.sendKeys(testUtility.randomTitle());
+        addressTitle.sendKeys("Ev");
     }
 
     public void fillFirstName(){
@@ -158,7 +155,7 @@ public class CheckOutPage {
         fillLastName();
         fillPhoneNumber();
         selectCity();
-        testUtility.sleep(2);
+        testUtility.sleep(1);
         selectTownShip();
         testUtility.sleep(2);
         selectDistrict();
